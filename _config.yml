@@ -103,7 +103,7 @@ analytics:
 author:
   name: 'TaeYeong Jeong' # 이름 영역
   avatar: '/assets/images/github-profile.jpg' # 프로필 사진 경로, e.g. "/assets/images/bio-photo.jpg"
-  bio: '**실습 위주로 포스팅합니다.**<br><br>매일 공부한 것은 **[여기에](https://dev-taeyeong.netlify.app/){: target="\_blank" style="color: #12406a"}**' # biography 의 약칭으로, 자기소개를 적으면 된다. # 줄바꿈은 <br> 로 굵은 글씨는 **글씨** 로 표기한다.
+  bio: '**실습 위주로 포스팅합니다.**<br>잘못된 것이 있으면 언제든지 알려주세요!<br><br>매일 공부한 것은 **[여기에](https://dev-taeyeong.netlify.app/){: target="\_blank" style="color: #12406a"}**' # biography 의 약칭으로, 자기소개를 적으면 된다. # 줄바꿈은 <br> 로 굵은 글씨는 **글씨** 로 표기한다.
   location: 'Seoul, Korea' # 지역
   email: # 이메일 주소. (links 에서 작성할 수 있기 때문에 생략하였다.)
   links:
